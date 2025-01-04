@@ -1,0 +1,2 @@
+Due to licensing, the ``.mat`` dataset files used in the project cannot be provided.
+Nevertheless, I hope that the BMI application use-cases are still helpful in demonstrating the usage of the toolboxes.
